@@ -1,8 +1,17 @@
-# React + Vite
+# 🍟 ChefCart. Fresh Ingredients, Fast Delivery
+ChefCart, a responsive application built using React.js and React Router DOM, features seamless navigation and incorporates React Icons for an enhanced user interface. Its design ensures optimal performance across various devices, providing an exceptional user experience.
+# Live Preview
+The ChefCart App is live and ready for you to explore! Visit [ChefCart.](https://chefcart-pj.netlify.app/)
+# App Overview
+![Overview](https://github.com/JadhavPrasad21/ChefCart-Task/assets/86917788/35a4e656-fefc-4bd2-b68b-cc1838ae7229)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+- Features a robust React Router DOM for seamless navigation.
+- Responsive UI adapts to various devices and screen sizes.
+- Menu exploration with filtering for selected items.
+- Ingredient details are available for each menu item.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# TechStacks Used
+- React
+- React-Router-DOM
+- React-Icons
